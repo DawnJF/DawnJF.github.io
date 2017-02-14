@@ -5,13 +5,11 @@ date:   2017-02-14 00:51:21 +0800
 categories: Mardown
 ---
 # 标题
-===
 ## 标题
----
 
 > 这里是引用also offers powerful support for code snippets
 
-=====
+代码：'print \'Hello World!\''
 
 > 试试嵌套引用
 > > #### 小标题
