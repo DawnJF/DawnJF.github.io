@@ -9,7 +9,7 @@ categories: Mardown
 
 > 这里是引用also offers powerful support for code snippets
 
-代码：'print \'Hello World!\''
+代码：`print 'Hello World!'`
 
 > 试试嵌套引用
 > > #### 小标题
